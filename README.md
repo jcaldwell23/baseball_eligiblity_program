@@ -1,2 +1,2 @@
-# baseball_eligiblity_program
-My first programming project using JavaScript
+# Baseball Eligibility Program
+My first programming project using JavaScript. This program has 2 functions getPlayerInfo and displayTableRow. getPlayerInfo gets input from the user and assigns it to a players array. displayTableRow inserts the players array into an HTML table dynamically based on how many players are in the players array. An IF comparison check is used to check hall of fame elibiligty based on the user input.
